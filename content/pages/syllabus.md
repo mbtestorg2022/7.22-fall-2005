@@ -64,8 +64,45 @@ This course is graded on a pass/fail basis for graduate students.
 
 ### Undergraduate Students
 
-| ACTIVITIES | DISTRIBUTION |
-| --- | --- |
-| Class Attendance, Participation, and Student Led Discussion Sessions | 1/3 |
-| Two Exams | 1/3 |
-| Final Exam | 1/3
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+DISTRIBUTION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Attendance, Participation, and Student Led Discussion Sessions
+{{< tdclose >}}
+{{< tdopen >}}
+1/3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Exams
+{{< tdclose >}}
+{{< tdopen >}}
+1/3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+1/3
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
