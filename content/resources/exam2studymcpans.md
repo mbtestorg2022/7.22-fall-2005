@@ -4,6 +4,7 @@ description: This resource includes problems to the questions asked in MCP file 
   cerebral cortex of the tasmanian devil.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-22-developmental-biology-fall-2005/c184e73b63e5dce5e3d62615f58d2cca_exam2studymcpans.pdf
 file_type: application/pdf
+parent_uid: 00f8cfef-3306-2d6e-1455-3ad862a56ae6
 resourcetype: Document
 title: exam2studymcpans.pdf
 uid: c184e73b-63e5-dce5-e3d6-2615f58d2cca

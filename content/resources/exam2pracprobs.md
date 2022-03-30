@@ -4,6 +4,7 @@ description: This resource includes problems on retinoic acid, gastrula stage, a
   ethyl nitrosourea.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-22-developmental-biology-fall-2005/cb817683cbb7a0188a9b0f03568357d1_exam2pracprobs.pdf
 file_type: application/pdf
+parent_uid: 00f8cfef-3306-2d6e-1455-3ad862a56ae6
 resourcetype: Document
 title: exam2pracprobs.pdf
 uid: cb817683-cbb7-a018-8a9b-0f03568357d1

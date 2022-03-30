@@ -4,6 +4,7 @@ description: This resource includes answers to the problems on the term ?axis?, 
   paralog, and ortholog.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-22-developmental-biology-fall-2005/ecc9f49a515ccc6d2adca26aaa27d35a_quiz_10_5_05ans.pdf
 file_type: application/pdf
+parent_uid: 00f8cfef-3306-2d6e-1455-3ad862a56ae6
 resourcetype: Document
 title: quiz_10_5_05ans.pdf
 uid: ecc9f49a-515c-cc6d-2adc-a26aaa27d35a
